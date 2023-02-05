@@ -42,6 +42,12 @@ public class Equipo {
         }
     }
 
+    public String accion_especial() {
+        String accion = "Acción";
+        System.out.println("Accion");
+        return accion;
+    }
+
     public Rareza getNivel_rareza() {
         return nivel_rareza;
     }

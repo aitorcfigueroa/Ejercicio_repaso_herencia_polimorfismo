@@ -32,4 +32,5 @@ public class Armadura extends Equipo{
     public void setMultiplicador(double multiplicador) {
         this.multiplicador = multiplicador;
     }
+
 }
